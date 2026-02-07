@@ -1,3 +1,5 @@
+![Workout Management API](WhatsApp Image 2026-02-07 at 22.11.22 (1).jpeg)
+
 ##  Workout Management API
 
 This is a Spring Boot-based backend application designed for managing fitness workouts. The project demonstrates the implementation of professional software design patterns and a clean architecture.
@@ -37,4 +39,5 @@ The project strictly follows these design patterns to ensure scalability and cle
 
 1. **Clone the repository:**
    ```bash
+
    git clone <https://github.com/nurbekaktai-sys/OOP-Endterm.git>
