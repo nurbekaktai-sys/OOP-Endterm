@@ -1,4 +1,5 @@
-![Workout Management API](WhatsApp Image 2026-02-07 at 22.11.22 (1).jpeg)
+![WhatsApp Image 2026-02-07 at 22 11 22 (1)](https://github.com/user-attachments/assets/af3d1cf8-60af-492f-b54a-bba0e012118c)
+
 
 ##  Workout Management API
 
@@ -41,3 +42,4 @@ The project strictly follows these design patterns to ensure scalability and cle
    ```bash
 
    git clone <https://github.com/nurbekaktai-sys/OOP-Endterm.git>
+
